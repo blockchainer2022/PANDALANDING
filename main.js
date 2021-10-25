@@ -8,6 +8,6 @@ new FlipDown(1635534000, {
 })
   .start()
   .ifEnded(() => {
-    countOnContainer.classList.add("hidden_ut");
-    countOffContainer.classList.add("display_ut");
+    // countOnContainer.classList.add("hidden_ut");
+    // countOffContainer.classList.add("display_ut");
   });
